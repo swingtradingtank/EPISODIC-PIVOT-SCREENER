@@ -174,7 +174,7 @@ Issues and pull requests welcome!
 
 ## 📧 Questions?
 
-Open an issue on GitHub or contact via [your contact method]
+Open an issue on GitHub or contact via tancredirosch@gmail.com
 
 ---
 
